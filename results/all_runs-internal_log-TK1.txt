@@ -1,0 +1,55 @@
+# Run 1
+2K performance run parameters for coremark.
+CoreMark Size    : 666
+Total ticks      : 42
+Total time (secs): 0.042000
+Iterations/Sec   : 11904.761905
+ERROR! Must execute for at least 10 secs for a valid result!
+Iterations       : 500
+Compiler version : GCC8.3.0
+Compiler flags   : -O2   -lrt
+Memory location  : Please put data memory location here
+			(e.g. code in flash, data on heap etc)
+seedcrc          : 0xe9f5
+[0]crclist       : 0xe714
+[0]crcmatrix     : 0x1fd7
+[0]crcstate      : 0x8e3a
+[0]crcfinal      : 0xa14c
+Errors detected
+
+# Run 2
+2K validation run parameters for coremark.
+CoreMark Size    : 666
+Total ticks      : 42
+Total time (secs): 0.042000
+Iterations/Sec   : 11904.761905
+ERROR! Must execute for at least 10 secs for a valid result!
+Iterations       : 500
+Compiler version : GCC8.3.0
+Compiler flags   : -O2   -lrt
+Memory location  : Please put data memory location here
+			(e.g. code in flash, data on heap etc)
+seedcrc          : 0x18f2
+[0]crclist       : 0xe3c1
+[0]crcmatrix     : 0x0747
+[0]crcstate      : 0x8d84
+[0]crcfinal      : 0x5e45
+Errors detected
+
+# Run 3
+CoreMark Size    : 666
+Total ticks      : 35
+Total time (secs): 0.035000
+Iterations/Sec   : 14285.714286
+ERROR! Must execute for at least 10 secs for a valid result!
+Iterations       : 500
+Compiler version : GCC8.3.0
+Compiler flags   : -O2   -lrt
+Memory location  : Please put data memory location here
+			(e.g. code in flash, data on heap etc)
+seedcrc          : 0xefe9
+[0]crclist       : 0x46c6
+[0]crcmatrix     : 0x0fe9
+[0]crcstate      : 0x657b
+[0]crcfinal      : 0xe7ce
+Correct operation validated. See README.md for run and reporting rules.

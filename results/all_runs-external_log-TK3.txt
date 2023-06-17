@@ -1,0 +1,69 @@
+# Run 1
+* (marss-riscv): Switching to full-system simulation mode at pc = 0x0000002aaaaaa66e
+* (marss-riscv): Performance Summary:
+	* user-mode-commits: 182986927
+	* user-mode-cycles: 212083198
+	* user-mode-ipc: 0.8628
+	* supervisor-mode-commits: 1653239
+	* supervisor-mode-cycles: 4315662
+	* supervisor-mode-ipc: 0.3831
+	* hypervisor-mode-commits: 0
+	* hypervisor-mode-cycles: 0
+	* hypervisor-mode-ipc: -nan
+	* machine-mode-commits: 22323
+	* machine-mode-cycles: 44052
+	* machine-mode-ipc: 0.5067
+	* total-commits: 184662489
+	* total-cycles: 216442912
+	* total-ipc: 0.8532
+	* simulation-time: 69286 milliseconds
+	* total-commits-per-millisecond: 2665
+* (marss-riscv): Saved simulation stats in ./sim_Fri_Jun_16_22_47_24_2023_.csv
+* (marss-riscv): Switching to emulation mode mode at pc = 0x0000002aaaaaa66a
+
+# Run 2
+* (marss-riscv): Switching to full-system simulation mode at pc = 0x0000002aaaaaa66e
+* (marss-riscv): Performance Summary:
+	* user-mode-commits: 183199614
+	* user-mode-cycles: 212556902
+	* user-mode-ipc: 0.8619
+	* supervisor-mode-commits: 1516956
+	* supervisor-mode-cycles: 3945887
+	* supervisor-mode-ipc: 0.3844
+	* hypervisor-mode-commits: 0
+	* hypervisor-mode-cycles: 0
+	* hypervisor-mode-ipc: -nan
+	* machine-mode-commits: 20860
+	* machine-mode-cycles: 40036
+	* machine-mode-ipc: 0.5210
+	* total-commits: 184737430
+	* total-cycles: 216542825
+	* total-ipc: 0.8531
+	* simulation-time: 70004 milliseconds
+	* total-commits-per-millisecond: 2638
+* (marss-riscv): Saved simulation stats in ./sim_Fri_Jun_16_22_48_49_2023_.csv
+* (marss-riscv): Switching to emulation mode mode at pc = 0x0000002aaaaaa66a
+
+# Run 3
+* (marss-riscv): Switching to full-system simulation mode at pc = 0x0000002aaaaaa66e
+C* (marss-riscv): Performance Summary:
+	* user-mode-commits: 152777693
+	* user-mode-cycles: 176526588
+	* user-mode-ipc: 0.8655
+	* supervisor-mode-commits: 1513203
+	* supervisor-mode-cycles: 3931995
+	* supervisor-mode-ipc: 0.3848
+	* hypervisor-mode-commits: 0
+	* hypervisor-mode-cycles: 0
+	* hypervisor-mode-ipc: -nan
+	* machine-mode-commits: 18228
+	* machine-mode-cycles: 35704
+	* machine-mode-ipc: 0.5105
+	* total-commits: 154309124
+	* total-cycles: 180494287
+	* total-ipc: 0.8549
+	* simulation-time: 57389 milliseconds
+	* total-commits-per-millisecond: 2688
+* (marss-riscv): Saved simulation stats in ./sim_Fri_Jun_16_22_49_57_2023_.csv
+* (marss-riscv): Switching to emulation mode mode at pc = 0x0000002aaaaaa66a
+
