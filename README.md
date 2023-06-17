@@ -56,15 +56,14 @@ A partir dos arquivos de log e CSV que o benchmark rodando dentro da simulação
 Os Gráficos gerados estão abaixo.
 
 ### Gráficos
-
-![](./results/"Conditional Branches Taken")
-![](./results/"Conditional Branches Predicted Correctly")
-![](./results/"Conditional Branches Predicted Wrong")
-![](./results/"Unconditional Branches Predicted Correctly")
-![](./results/"Unconditional Branches Predicted Wrong")
-![](./results/"L1 icache Reads")
-![](./results/"L1 icache Read Misses")
-![](./results/"L2 cache Reads")
-![](./results/"L2 cache Read Misses")
-![](./results/"L2 cache Writes")
-![](./results/"L2 cache Write Misses")
+![alt text](./results/Conditional%20Branches%20Taken.png "grafico1")
+![alt text](./results/Conditional%20Branches%20Predicted%20Correctly.png "grafico2")
+![alt text](./results/Conditional%20Branches%20Predicted%20Wrong.png "grafico3")
+![alt text](./results/Unconditional%20Branches%20Predicted%20Correctly.png "grafico4")
+![alt text](./results/Unconditional%20Branches%20Predicted%20Wrong.png "grafico5")
+![alt text](./results/L1%20icache%20Reads.png "grafico6")
+![alt text](./results/L1%20icache%20Read%20Misses.png "grafico7")
+![alt text](./results/L2%20cache%20Reads.png "grafico8")
+![alt text](./results/L2%20cache%20Read%20Misses.png "grafico9")
+![alt text](./results/L1%20cache%20Writes.png "grafico10")
+![alt text](./results/L1%20cache%20Write%20Misses.png "grafico10")
