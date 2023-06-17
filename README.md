@@ -129,5 +129,5 @@ Os Gráficos gerados estão abaixo.
 ![alt text](./results/L1%20icache%20Read%20Misses.png "grafico7")
 ![alt text](./results/L2%20cache%20Reads.png "grafico8")
 ![alt text](./results/L2%20cache%20Read%20Misses.png "grafico9")
-![alt text](./results/L1%20cache%20Writes.png "grafico10")
-![alt text](./results/L1%20cache%20Write%20Misses.png "grafico10")
+![alt text](./results/L2%20cache%20Writes.png "grafico10")
+![alt text](./results/L2%20cache%20Write%20Misses.png "grafico10")
